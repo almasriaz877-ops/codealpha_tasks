@@ -1,0 +1,22 @@
+# Task 2 - Exploratory Data Analysis (EDA)
+
+## Objective
+Perform exploratory data analysis to understand the dataset and identify meaningful insights.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## Project Description
+This project includes data cleaning, handling missing values, statistical analysis, and visualizations to explore the dataset.
+
+## Files Included
+- EDA.ipynb
+- Dataset.csv
+- EDA_Report.pdf
+
+## Outcome
+Successfully analyzed the dataset and generated insights using exploratory data analysis techniques.
