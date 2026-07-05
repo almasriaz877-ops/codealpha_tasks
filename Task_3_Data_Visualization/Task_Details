@@ -1,0 +1,22 @@
+# Task 3 - Data Visualization
+
+## Objective
+Create interactive visualizations and a dashboard using Tableau.
+
+## Tools Used
+- Tableau
+- Microsoft Excel
+
+## Visualizations Created
+- Total Sales by Country (Bar Chart)
+- Monthly Sales Trend (Line Chart)
+- Top 10 Products by Sales
+- Sales Distribution (Histogram)
+- Sales vs Quantity (Scatter Plot)
+- Interactive Dashboard
+
+## Files Included
+- Data_Visualization.twbx
+
+## Outcome
+Built an interactive Tableau dashboard to analyze sales performance, identify trends, and generate business insights through multiple visualizations.
