@@ -1,0 +1,22 @@
+# Task 1 - Web Scraping
+
+## Objective
+Extract data from a website using Python and organize it into a structured format.
+
+## Tools Used
+- Python
+- BeautifulSoup
+- Requests
+- Pandas
+- Jupyter Notebook
+
+## Project Description
+This project demonstrates web scraping using Python. Data was collected from a website, cleaned, organized, and exported for further analysis.
+
+## Files Included
+- Web_Scraping.ipynb
+- Extracted_Data.csv
+- README.md
+
+## Outcome
+Successfully scraped the required data and saved it in a structured dataset for analysis.
